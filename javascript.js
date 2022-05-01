@@ -1,4 +1,4 @@
 // JavaScript
-const operatingsystem = 'Arch Linux'
+const js = 'JavaScript'
 
-console.log(operatingsystem)
+console.log(js)
